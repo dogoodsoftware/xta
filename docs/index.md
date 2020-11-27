@@ -8,4 +8,4 @@ Xta is a C# test automation framework that provides core features needed for any
 
 
 ------
-###### > <span style="color:lightgray;font-size:xx-small;">Copyright © 2020 Do Good Software</span> <
+###### <span style="color:lightgray;font-size:xx-small;">Copyright © 2020 Do Good Software</span>
